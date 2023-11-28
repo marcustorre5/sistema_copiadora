@@ -1,5 +1,5 @@
 # Boas-vindas
-print('Bem-Vindo sistema de cobrança de serviços de uma copiadora de Marcus Vinicius de Araujo Torres\n')
+print('sistema copiadora\n')
 
 # Função para escolher o serviço desejado
 def escolha_servico():
